@@ -1,3 +1,4 @@
 "version 0.1" 
 "version 0.2" 
 "add by dev branch" 
+"fix bug #001" 
